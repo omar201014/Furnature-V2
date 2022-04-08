@@ -9,11 +9,11 @@ This the updated version of a a ***previous work*** [Furnature][link] .
 ----
 1. In this **Version** i rebuilt the project using the **Bootstrap** library and create a responsive design unlike the first version .
 2. I also applied the media Quaries to some element to make the mobile view work more properly . 
-3. with the help of Javascript i managed to handel the click event applied to the content of _discover_ section so while in mobile view we can see the overlay cover with just a click . 
+3. with the help of **Javascript** i managed to handel the _click_ event applied to the content of _discover_ section so while in **mobile view** we can see the overlay cover with just a _click_ . 
 
 ## Contributers and Credits : 
 
-thanks to my college [Mohamed_Eldefrawy][link2] 
+**Big Thanks** to my college and my dear friend [Mohamed_Eldefrawy][link2] 
 
 [link2]:https://github.com/MohamedEldefrawy
 
