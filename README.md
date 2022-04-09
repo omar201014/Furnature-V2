@@ -17,7 +17,7 @@ This the updated version of a a ***previous work*** [Furnature][link] .
 
 [link2]:https://github.com/MohamedEldefrawy
 
-#Acknowldges
+# Acknowldges
 
 1. pexels-valeria-boltneva
 
