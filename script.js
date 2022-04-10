@@ -12,6 +12,7 @@ myForm.addEventListener('input' , (e) =>{
 
         case 'user_mail':
 
+
         break;
 
         case 'user_password':
@@ -26,10 +27,10 @@ myForm.addEventListener('input' , (e) =>{
 
 function nameValdation(input){
 
-    const inputText = input.value
+    const inputText = input.value.trim()                      //using .trim() for space check //
     if (inputText.length <3) 
         showError(input , "enter a valid name");
-    else
+    else 
         removeError(input);
 }
 
@@ -45,4 +46,5 @@ function showError(myInput , msg){
 function removeError(myInput){
     const error = myInput.nextElementSibling;
     error.classList.add('d-none')
+    
 }

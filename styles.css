@@ -224,7 +224,9 @@
         color: white
     }
 
-    /* contact page */
+/* contact page */
+
+    /* banner section */
     .banner-contact{
         background-image: url(Images/pexels-cottonbro-7595060.jpg);
         background-size: cover;
@@ -247,9 +249,19 @@
         font-size: 14px;
     }
 
+    /* User Form */
+
     .User-Form{
         padding: 150px 0;
         background-image: linear-gradient(180deg,rgb(61, 2, 138),rgb(105, 59, 165),rgb(177, 138, 228));
+    }
+    .User-Form .container{
+        border: 2px solid white;
+        border-radius: 1.5rem;
+        background: #7022972e;
+        padding: 60px 0;
+        width: 60%;
+        height: 567px;
     }
     .form-title{
         font-family: 'poppins' , sans-serif;
@@ -270,6 +282,7 @@
 
     /* Responsive quaries  */
 @media (min-width: 0px) and (max-width: 575px) {
+    
             .nav-item{
                 padding: 3px 0;
             }
@@ -341,6 +354,11 @@
             .product-cont p{
                 font-size: 12px !important;
             }
+            .User-Form .container{
+                padding: 60px 20px;
+                width: 88%;
+                height: 490px;
+            }
             
     }
 
@@ -379,8 +397,8 @@
         align-items: normal;
         justify-content: center;
     }        
-
-    }
+    
+}
 
 @media (min-width: 768px) and (max-width: 991px) {
 
