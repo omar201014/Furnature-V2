@@ -239,9 +239,35 @@
         background-color: #070707c0;
     }
     .ban-nav{
-        background-color: #070707da;
+        background-color: #07070770;
 
     }
+    .ban-nav p{
+        color: #999999;
+        font-size: 14px;
+    }
+
+    .User-Form{
+        padding: 150px 0;
+        background-image: linear-gradient(180deg,rgb(61, 2, 138),rgb(105, 59, 165),rgb(177, 138, 228));
+    }
+    .form-title{
+        font-family: 'poppins' , sans-serif;
+        color: #f7d30b;
+    }
+
+    #form{
+        text-align: center;
+        font-size: 1.5rem;
+        color: white;
+        font-family: 'Raleway',sans-serif;
+    }
+
+    .Sign-Up-btn:hover{
+        background-color: #5a007e !important;
+    }
+
+
     /* Responsive quaries  */
 @media (min-width: 0px) and (max-width: 575px) {
             .nav-item{
