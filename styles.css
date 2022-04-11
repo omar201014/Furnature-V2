@@ -275,6 +275,15 @@
         font-family: 'Raleway',sans-serif;
     }
 
+    .form-control:focus{
+        box-shadow: 0 0 0 .25rem rgba(189, 6, 178, 0.25) !important;
+    }
+    label{
+        font-size: 12px;
+        font-weight: lighter;
+        font-family: monospace ,sans-serif;
+    }
+
     .Sign-Up-btn:hover{
         background-color: #5a007e !important;
     }
@@ -358,7 +367,8 @@
                 padding: 60px 20px;
                 width: 88%;
                 height: 490px;
-            }
+            }            
+
             
     }
 
