@@ -11,7 +11,7 @@ This the updated version of a a ***previous work*** [Furnature][link] .
 2. I also applied the media Quaries to some element to make the mobile view work more properly . 
 3. with the help of **Javascript** i managed to handel the _click_ event applied to the content of _discover_ section so while in **mobile view** we can see the overlay cover with just a _click_ . 
 
-## Contributers and Credits : 
+## Contributors and Credits : 
 
 **Big Thanks** to my college and my dear friend [Mohamed_Eldefrawy][link2] 
 
